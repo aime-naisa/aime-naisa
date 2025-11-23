@@ -120,6 +120,8 @@ Estou sempre em busca de novos aprendizados e evolução profissional.
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <p>
