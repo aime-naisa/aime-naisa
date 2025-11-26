@@ -124,6 +124,14 @@ Estou sempre em busca de novos aprendizados e evolução profissional.
 
 ### 📊 Estatísticas
 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-aime-naisa-de-souzas-projects.vercel.app/api?aime-naisa=anuraghazra" 
+  />
 
 <img 
       align="left" 
