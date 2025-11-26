@@ -130,7 +130,7 @@ Estou sempre em busca de novos aprendizados e evolução profissional.
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https:/github-readme-stats-nu-lime-85.vercel.app/api?aime-naisa=anuraghazra" 
+    src="github-readme-stats-git-master-aime-naisa-de-souzas-projects.vercel.app/api?aime-naisa=anuraghazra" 
   />
 
 <img 
